@@ -10,7 +10,7 @@
 <br/>
 
 ### About Me
-Final-year BS Computer Science student at COMSATS University Islamabad, Abbottabad Campus. I design and build practical software systems — from Windows desktop applications with real hardware integration to secure, encrypted web platforms. Comfortable owning a project end-to-end: architecture, backend logic, and leading a team to ship it.
+Final-year BS Computer Science student at COMSATS University Islamabad, Abbottabad Campus. I design and build practical software systems from Windows desktop applications with real hardware integration to secure, encrypted web platforms. Comfortable owning a project end-to-end: architecture, backend logic, and leading a team to ship it.
 <br/>
 
 ### Tech Stack
