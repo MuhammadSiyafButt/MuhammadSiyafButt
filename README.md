@@ -1,45 +1,28 @@
 <div align="center">
-
 <img src="./header-banner.svg" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?lines=DeviceSense;file_sharing_system;face_detection;bus_portal;snake_game_in_C-;personal_portfolio;js_basic&font=Fira+Code&center=true&width=520&height=35&color=1D9E75&vCenter=true&size=18" alt="project names animation"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-siyaf-butt-806a27367/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsiyafbutt486@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuhammadSiyafButt)
+<a href="https://www.linkedin.com/in/muhammad-siyaf-butt-806a27367/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:muhammadsiyafbutt486@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://github.com/MuhammadSiyafButt"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 
 </div>
-
 <br/>
 
 ### About Me
-
 Final-year BS Computer Science student at COMSATS University Islamabad, Abbottabad Campus. I design and build practical software systems — from Windows desktop applications with real hardware integration to secure, encrypted web platforms. Comfortable owning a project end-to-end: architecture, backend logic, and leading a team to ship it.
-
 <br/>
 
 ### Tech Stack
 
-**Languages**
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<div align="center">
 
-**Frameworks & Platforms**
-![.NET](https://img.shields.io/badge/-.NET%20/%20WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,java,js,cpp,sqlite,git,opencv" height="55"/>
 
-**Data & Tools**
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
+</div>
 <br/>
 
 ### Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -102,7 +85,6 @@ JavaScript fundamentals and practice.
 </td>
 </tr>
 </table>
-
 <br/>
 
 <div align="center">
